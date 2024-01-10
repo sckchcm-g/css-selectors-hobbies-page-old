@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 7%;
+}
+
+.maindiv{
+    border-radius: 10px 30px;
+    font-size: 25px;
+    color: rgb(62, 62, 62);
+}
+
+.secdiv{
+    border-radius: 30px 10px;
+}
+
+#text{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(62, 62, 62);
+}
+
+ul{
+    font-size: 20px;
+    color: rgb(170, 0, 0);
+}
